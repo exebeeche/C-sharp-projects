@@ -1,0 +1,11 @@
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.csproj.AssemblyReference.cache
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.Properties.Resources.resources
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.csproj.GenerateResource.cache
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\EmployeeGui\EmployeeGui\bin\Debug\EmployeeGui.exe.config
+C:\github\c-sharp\EmployeeGui\EmployeeGui\bin\Debug\EmployeeGui.exe
+C:\github\c-sharp\EmployeeGui\EmployeeGui\bin\Debug\EmployeeGui.pdb
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.exe
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.pdb
+C:\github\c-sharp\EmployeeGui\EmployeeGui\obj\Debug\EmployeeGui.Form1.resources

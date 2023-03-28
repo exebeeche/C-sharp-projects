@@ -1,0 +1,8 @@
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\bin\Debug\VolumeCompare.exe.config
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\bin\Debug\VolumeCompare.exe
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\bin\Debug\VolumeCompare.pdb
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\obj\Debug\VolumeCompare.csproj.AssemblyReference.cache
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\obj\Debug\VolumeCompare.csproj.SuggestedBindingRedirects.cache
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\obj\Debug\VolumeCompare.csproj.CoreCompileInputs.cache
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\obj\Debug\VolumeCompare.exe
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\VolumeCompare\obj\Debug\VolumeCompare.pdb

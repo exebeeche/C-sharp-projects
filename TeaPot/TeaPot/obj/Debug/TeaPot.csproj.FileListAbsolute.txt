@@ -1,0 +1,8 @@
+C:\github\c-sharp\TeaPot\TeaPot\bin\Debug\TeaPot.exe.config
+C:\github\c-sharp\TeaPot\TeaPot\bin\Debug\TeaPot.exe
+C:\github\c-sharp\TeaPot\TeaPot\bin\Debug\TeaPot.pdb
+C:\github\c-sharp\TeaPot\TeaPot\obj\Debug\TeaPot.csproj.AssemblyReference.cache
+C:\github\c-sharp\TeaPot\TeaPot\obj\Debug\TeaPot.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\TeaPot\TeaPot\obj\Debug\TeaPot.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\TeaPot\TeaPot\obj\Debug\TeaPot.exe
+C:\github\c-sharp\TeaPot\TeaPot\obj\Debug\TeaPot.pdb

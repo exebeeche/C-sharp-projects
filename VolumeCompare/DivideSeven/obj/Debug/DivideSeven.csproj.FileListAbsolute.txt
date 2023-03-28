@@ -1,0 +1,8 @@
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\bin\Debug\DivideSeven.exe.config
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\bin\Debug\DivideSeven.exe
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\bin\Debug\DivideSeven.pdb
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\obj\Debug\DivideSeven.csproj.AssemblyReference.cache
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\obj\Debug\DivideSeven.csproj.SuggestedBindingRedirects.cache
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\obj\Debug\DivideSeven.csproj.CoreCompileInputs.cache
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\obj\Debug\DivideSeven.exe
+C:\Users\anzhelika.andronova\source\repos\VolumeCompare\DivideSeven\obj\Debug\DivideSeven.pdb

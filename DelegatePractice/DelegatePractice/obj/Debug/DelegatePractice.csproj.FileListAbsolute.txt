@@ -1,0 +1,8 @@
+C:\github\c-sharp\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.AssemblyReference.cache
+C:\github\c-sharp\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe.config
+C:\github\c-sharp\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe
+C:\github\c-sharp\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.pdb
+C:\github\c-sharp\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.exe
+C:\github\c-sharp\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.pdb

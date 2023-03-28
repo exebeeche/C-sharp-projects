@@ -1,0 +1,8 @@
+C:\github\c-sharp\VolumeCompare\OneDimArray\bin\Debug\OneDimArray.exe.config
+C:\github\c-sharp\VolumeCompare\OneDimArray\bin\Debug\OneDimArray.exe
+C:\github\c-sharp\VolumeCompare\OneDimArray\bin\Debug\OneDimArray.pdb
+C:\github\c-sharp\VolumeCompare\OneDimArray\obj\Debug\OneDimArray.csproj.AssemblyReference.cache
+C:\github\c-sharp\VolumeCompare\OneDimArray\obj\Debug\OneDimArray.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\VolumeCompare\OneDimArray\obj\Debug\OneDimArray.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\VolumeCompare\OneDimArray\obj\Debug\OneDimArray.exe
+C:\github\c-sharp\VolumeCompare\OneDimArray\obj\Debug\OneDimArray.pdb

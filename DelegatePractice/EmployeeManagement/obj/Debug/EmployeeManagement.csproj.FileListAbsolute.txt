@@ -1,0 +1,3 @@
+C:\github\c-sharp\DelegatePractice\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\github\c-sharp\DelegatePractice\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\DelegatePractice\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache

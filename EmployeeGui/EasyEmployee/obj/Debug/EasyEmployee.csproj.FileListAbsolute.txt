@@ -1,0 +1,11 @@
+C:\github\c-sharp\EmployeeGui\EasyEmployee\bin\Debug\EasyEmployee.exe.config
+C:\github\c-sharp\EmployeeGui\EasyEmployee\bin\Debug\EasyEmployee.exe
+C:\github\c-sharp\EmployeeGui\EasyEmployee\bin\Debug\EasyEmployee.pdb
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.csproj.AssemblyReference.cache
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.Form1.resources
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.Properties.Resources.resources
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.csproj.GenerateResource.cache
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.exe
+C:\github\c-sharp\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.pdb

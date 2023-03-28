@@ -1,0 +1,8 @@
+C:\github\c-sharp\DelegatePractice\CheckTheChat\bin\Debug\CheckTheChat.exe.config
+C:\github\c-sharp\DelegatePractice\CheckTheChat\bin\Debug\CheckTheChat.exe
+C:\github\c-sharp\DelegatePractice\CheckTheChat\bin\Debug\CheckTheChat.pdb
+C:\github\c-sharp\DelegatePractice\CheckTheChat\obj\Debug\CheckTheChat.csproj.AssemblyReference.cache
+C:\github\c-sharp\DelegatePractice\CheckTheChat\obj\Debug\CheckTheChat.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\DelegatePractice\CheckTheChat\obj\Debug\CheckTheChat.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\DelegatePractice\CheckTheChat\obj\Debug\CheckTheChat.exe
+C:\github\c-sharp\DelegatePractice\CheckTheChat\obj\Debug\CheckTheChat.pdb

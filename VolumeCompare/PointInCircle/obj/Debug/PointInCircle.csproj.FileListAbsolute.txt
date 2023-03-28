@@ -1,0 +1,8 @@
+C:\github\c-sharp\VolumeCompare\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\github\c-sharp\VolumeCompare\PointInCircle\bin\Debug\PointInCircle.exe
+C:\github\c-sharp\VolumeCompare\PointInCircle\bin\Debug\PointInCircle.pdb
+C:\github\c-sharp\VolumeCompare\PointInCircle\obj\Debug\PointInCircle.csproj.AssemblyReference.cache
+C:\github\c-sharp\VolumeCompare\PointInCircle\obj\Debug\PointInCircle.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\VolumeCompare\PointInCircle\obj\Debug\PointInCircle.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\VolumeCompare\PointInCircle\obj\Debug\PointInCircle.exe
+C:\github\c-sharp\VolumeCompare\PointInCircle\obj\Debug\PointInCircle.pdb
