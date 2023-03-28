@@ -6,3 +6,11 @@ C:\Users\anzhelika.andronova\source\repos\Calculator\Calculator\bin\Debug\Calcul
 C:\Users\anzhelika.andronova\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
 C:\Users\anzhelika.andronova\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\anzhelika.andronova\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\github\C-sharp-projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\github\C-sharp-projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\github\C-sharp-projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\github\C-sharp-projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\github\C-sharp-projects\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\github\C-sharp-projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\github\C-sharp-projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\github\C-sharp-projects\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -3,7 +3,7 @@
 namespace Calculator {
     internal class Program {
         static void Main(string[] args) {
-
+            do { 
             double firstNumber, secondNumber;
             char Operation;
             Console.WriteLine("Enter the first number:");
@@ -40,6 +40,7 @@ namespace Calculator {
             }
             Console.WriteLine($"Result is: {Result}");
             Console.ReadLine();
+                } while (true);
         }
     }
 }

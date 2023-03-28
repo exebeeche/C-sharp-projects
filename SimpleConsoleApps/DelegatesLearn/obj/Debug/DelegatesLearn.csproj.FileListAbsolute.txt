@@ -1,0 +1,16 @@
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\bin\Debug\DelegatesLearn.exe.config
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\bin\Debug\DelegatesLearn.exe
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\bin\Debug\DelegatesLearn.pdb
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.AssemblyReference.cache
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.SuggestedBindingRedirects.cache
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.CoreCompileInputs.cache
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\obj\Debug\DelegatesLearn.exe
+C:\github\c-sharp\VolumeCompare\DelegatesLearn\obj\Debug\DelegatesLearn.pdb
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\bin\Debug\DelegatesLearn.exe.config
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\bin\Debug\DelegatesLearn.exe
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\bin\Debug\DelegatesLearn.pdb
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.AssemblyReference.cache
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.SuggestedBindingRedirects.cache
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.CoreCompileInputs.cache
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\obj\Debug\DelegatesLearn.exe
+C:\github\C-sharp-projects\SimpleConsoleApps\DelegatesLearn\obj\Debug\DelegatesLearn.pdb
