@@ -1,0 +1,11 @@
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\bin\Debug\TeaPot.exe.config
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\bin\Debug\TeaPot.exe
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\bin\Debug\TeaPot.pdb
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.csproj.AssemblyReference.cache
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.csproj.SuggestedBindingRedirects.cache
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.Form1.resources
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.Properties.Resources.resources
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.csproj.GenerateResource.cache
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.csproj.CoreCompileInputs.cache
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.exe
+C:\github\C-sharp-projects\EmployeeGui\TeaPot\obj\Debug\TeaPot.pdb

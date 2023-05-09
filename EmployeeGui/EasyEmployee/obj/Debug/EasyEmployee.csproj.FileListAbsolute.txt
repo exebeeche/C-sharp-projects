@@ -20,3 +20,7 @@ C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.cspro
 C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.csproj.CoreCompileInputs.cache
 C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.exe
 C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.pdb
+C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\bin\Debug\TeaPot.exe
+C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\bin\Debug\TeaPot.pdb
+C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\bin\Debug\TeaPot.exe.config
+C:\github\C-sharp-projects\EmployeeGui\EasyEmployee\obj\Debug\EasyEmployee.csproj.CopyComplete

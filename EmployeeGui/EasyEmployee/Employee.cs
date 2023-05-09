@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace EasyEmployee {
     public enum Position {
@@ -12,12 +9,31 @@ namespace EasyEmployee {
         Designer,
         TechWriter
     }
-    public class Employee {
+
+    class SalaryValidation : Attribute {
+        public int salary { get; }
+        public SalaryValidation() { }
+        public SalaryValidation(int salary) {
+            this.salary = salary;
+        }
+    }
+
+    [SalaryValidation(40000)]
+    public class Employee
+        {
+
+        public Employee() { }
 
         public Employee(string name, Position position, int salary) {
             this.Name = name;
             this.Position = position;
             this.Salary = salary;
+        }
+
+        public void Deconstruct(out string name, out Position position, out int salary) {
+            name = this.Name;
+            position = this.Position;
+            salary = this.Salary;
         }
 
         private string name;
