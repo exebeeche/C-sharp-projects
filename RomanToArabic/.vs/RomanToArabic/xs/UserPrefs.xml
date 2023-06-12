@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2B582C49-DAA7-4A11-8350-C9302DDF3D6A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WithMapping PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RomanToArabic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WithMapping/Program.cs">
+    <Files>
+      <File FileName="RomanToArabic/Program.cs" Line="3" Column="1" />
+      <File FileName="WithMapping/Program.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RomanToArabic" expanded="True" selected="True">
+            <Node name="RomanToArabic" expanded="True" />
+            <Node name="WithMapping" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

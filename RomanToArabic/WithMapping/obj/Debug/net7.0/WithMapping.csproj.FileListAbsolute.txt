@@ -1,0 +1,15 @@
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.csproj.AssemblyReference.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.AssemblyInfoInputs.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.AssemblyInfo.cs
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.csproj.CoreCompileInputs.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/bin/Debug/net7.0/WithMapping
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/bin/Debug/net7.0/WithMapping.deps.json
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/bin/Debug/net7.0/WithMapping.runtimeconfig.json
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/bin/Debug/net7.0/WithMapping.dll
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/bin/Debug/net7.0/WithMapping.pdb
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.dll
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/refint/WithMapping.dll
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.pdb
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/WithMapping.genruntimeconfig.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/WithMapping/obj/Debug/net7.0/ref/WithMapping.dll
