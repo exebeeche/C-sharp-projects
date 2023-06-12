@@ -1,0 +1,15 @@
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/bin/Debug/net6.0/RomanToArabic
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/bin/Debug/net6.0/RomanToArabic.deps.json
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/bin/Debug/net6.0/RomanToArabic.runtimeconfig.json
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/bin/Debug/net6.0/RomanToArabic.dll
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/bin/Debug/net6.0/RomanToArabic.pdb
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.csproj.AssemblyReference.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.AssemblyInfoInputs.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.AssemblyInfo.cs
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.csproj.CoreCompileInputs.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.dll
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/refint/RomanToArabic.dll
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.pdb
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/RomanToArabic.genruntimeconfig.cache
+/Users/exebeeche/sources/C-sharp-projects/RomanToArabic/RomanToArabic/obj/Debug/net6.0/ref/RomanToArabic.dll
