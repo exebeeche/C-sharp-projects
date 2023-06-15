@@ -1,0 +1,27 @@
+﻿<Window x:Class="TaskPlanning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskPlanning"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="taskTextBox" Width="200" Margin="5" Text="{Binding TaskName, UpdateSourceTrigger=PropertyChanged}"/>
+            <DatePicker x:Name="deadlineDatePicker" Margin="5" SelectedDate="{Binding Deadline, UpdateSourceTrigger=PropertyChanged}"/>
+            <Button Content="Add Task" Command="{Binding AddTaskCommand}" Margin="5"/>
+            <ListView x:Name="taskListView" Margin="5" ItemsSource="{Binding Tasks}" Height="240">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding TaskName}" Margin="5"/>
+                            <TextBlock Text="{Binding Deadline}" Margin="5"/>                            
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Content="Done" Command="{Binding MarkTaskAsDoneCommand}" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

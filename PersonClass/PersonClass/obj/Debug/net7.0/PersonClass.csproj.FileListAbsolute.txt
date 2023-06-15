@@ -1,0 +1,15 @@
+C:\github\C-sharp-projects\PersonClass\PersonClass\bin\Debug\net7.0\PersonClass.exe
+C:\github\C-sharp-projects\PersonClass\PersonClass\bin\Debug\net7.0\PersonClass.deps.json
+C:\github\C-sharp-projects\PersonClass\PersonClass\bin\Debug\net7.0\PersonClass.runtimeconfig.json
+C:\github\C-sharp-projects\PersonClass\PersonClass\bin\Debug\net7.0\PersonClass.dll
+C:\github\C-sharp-projects\PersonClass\PersonClass\bin\Debug\net7.0\PersonClass.pdb
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.csproj.AssemblyReference.cache
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.AssemblyInfoInputs.cache
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.AssemblyInfo.cs
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.csproj.CoreCompileInputs.cache
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.dll
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\refint\PersonClass.dll
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.pdb
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\PersonClass.genruntimeconfig.cache
+C:\github\C-sharp-projects\PersonClass\PersonClass\obj\Debug\net7.0\ref\PersonClass.dll

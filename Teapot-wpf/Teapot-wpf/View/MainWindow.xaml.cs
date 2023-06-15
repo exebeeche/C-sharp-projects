@@ -1,6 +1,4 @@
 ﻿using System.Windows;
-using System.Windows.Data;
-using Teapot_wpf.Model;
 using Teapot_wpf.Presenter;
 
 namespace Teapot_wpf.View {
@@ -10,16 +8,47 @@ namespace Teapot_wpf.View {
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
-            Teapot teapot = new Teapot(0);
-            Present presenter = new Present(teapot);
+            Present presenter = new Present(new Model.Teapot(), this);
                        
         }
+        public string TextBoxTempText { 
+            get { 
+                return textBoxTemp.Text; 
+            } 
+            set { 
+                textBoxTemp.Text = value; 
+            } 
+        }
+        public string TextBoxVolumeText {
+            get {
+                return textBoxVolume.Text;
+            }
+            set {
+                textBoxVolume.Text = value;
+            }
+        }
+        public Model.Model ComboBoxModelText {
+            get {
+                return (Model.Model)comboBoxModel.SelectedItem ;
+            }
+            set {
+                comboBoxModel.SelectedItem = value;
+            }
+        }
+        
+        public string TextBoxMaxVolumeText {
+            get {
+                return textBoxVolumeLimit.Text;
+            }
+            set {
+                textBoxVolumeLimit.Text = value;
+            }
+        }
 
-        private Teapot teapot;
         private Present presenter;
 
         private void buttonTemp_Click(object sender, RoutedEventArgs e) {
-
+            presenter.UpdateTPInfo(sender, e);
         }
     }
 }

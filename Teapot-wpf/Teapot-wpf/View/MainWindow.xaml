@@ -6,14 +6,11 @@
         xmlns:local="clr-namespace:Teapot_wpf.Model" 
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Window.Resources>
-        <local:Teapot x:Key="Teapot" />
-        <ObjectDataProvider x:Key="DataFromEnum" ObjectType="{x:Type }">
-            
-        </ObjectDataProvider>
-    </Window.Resources>
+    <Window.DataContext>
+        <local:Teapot/>
+    </Window.DataContext>
 
-    <Grid ShowGridLines="True" DataContext="{StaticResource Teapot}">
+    <Grid ShowGridLines="True" >
         <Grid.RowDefinitions>
             <RowDefinition Height="40"></RowDefinition>
             <RowDefinition Height="30"></RowDefinition>
@@ -27,7 +24,7 @@
         </Grid.ColumnDefinitions>
         <StackPanel Grid.Column="0" Grid.Row="0">
             <TextBlock x:Name="textBlockModel" Text="Model" />
-            <ComboBox x:Name="comboBoxModel" />
+            <ComboBox x:Name="comboBoxModel" ItemsSource="{Binding Model}"/>
         </StackPanel>
         <StackPanel  Grid.Column="1" Grid.Row="0">
             <TextBlock x:Name="textBlockMaxVolume" Text="{Binding maxVolume}"/>

@@ -28,7 +28,7 @@ namespace Teapot_wpf.Model {
             Volume = volume;
         }
     }
-    public class Teapot : INotifyPropertyChanged {
+    public class Teapot {
         public delegate void TempChangedEventHandler(object sender, TemperatureEventArgs e);
         public event TempChangedEventHandler TempChanged;
 
@@ -41,10 +41,8 @@ namespace Teapot_wpf.Model {
         public delegate void VolumeMaxEventHandler();
         public event VolumeMaxEventHandler VolumeMax;
 
-        public delegate void ModelChangedEventHandler();
-        public event ModelChangedEventHandler ModelChanged;
-
-        public event PropertyChangedEventHandler PropertyChanged;
+        public delegate void ModelChangedEventHandler(object Sender, EventArgs e);
+        public event ModelChangedEventHandler ModelChanged;        
 
         public Teapot() {
         }
@@ -73,7 +71,7 @@ namespace Teapot_wpf.Model {
                     SwitchModel(1.8f);
                     break;
             };
-            ModelChanged?.Invoke();
+            ModelChanged?.Invoke(this, new EventArgs());
         }
         private void SwitchModel(float newVolume) {
             maxVolume = newVolume;
@@ -81,9 +79,10 @@ namespace Teapot_wpf.Model {
             currentVolume = 0;
         }
         public float maxVolume { get; private set; }
-        float currentVolume;
+        public float currentVolume { get; private set; }
         public int maxTemp = 100;
-        int currentTemp = 20;
+        public int currentTemp { get; private set; } = 20;
+        
         public Model Model { get; set; }
         public void ChangeVolume(object sender, EventArgs e) {
             if(currentVolume < maxVolume) {
