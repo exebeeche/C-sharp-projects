@@ -1,21 +1,20 @@
-﻿<Properties StartupConfiguration="{958A73CA-CE95-4A99-94CC-A475C3477018}|Default">
+﻿<Properties StartupConfiguration="{AEAC9D96-E8C8-484F-B6F7-BF12D0D41D27}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.PersonClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SquareX PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PersonClass/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SquareX/Program.cs">
     <Files>
-      <File FileName="PersonClass/Program.cs" Line="7" Column="28" />
-      <File FileName="PersonClass/Person.cs" Line="1" Column="1" />
+      <File FileName="SquareX/Program.cs" Line="4" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PersonClass" expanded="True">
-            <Node name="PersonClass" expanded="True">
+          <Node name="SquareX" expanded="True">
+            <Node name="SquareX" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
