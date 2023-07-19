@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{436DD5DF-3F5D-41E5-973A-C0C60F3B4C25}|Default">
+  <MonoDevelop.Ide.ItemProperties.Palindrome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PowerOfTwo FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlusOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PowerOfTwo/Program.cs">
+    <Files>
+      <File FileName="LongCommonPref/Program.cs" />
+      <File FileName="LongCommonPrefLinq/Program.cs" Line="26" Column="71" />
+      <File FileName="PlusOne/Program.cs" Line="18" Column="23" />
+      <File FileName="Palindrome/Program.cs" Line="1" Column="37" />
+      <File FileName="PowerOfTwo/Program.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCode" expanded="True">
+            <Node name="LongCommonPref" expanded="True" />
+            <Node name="PowerOfTwo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LongCommonPref PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LongCommonPrefLinq PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

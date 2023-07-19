@@ -1,0 +1,15 @@
+/Users/exebeeche/Projects/LeetCode/Palindrome/bin/Debug/net7.0/Palindrome
+/Users/exebeeche/Projects/LeetCode/Palindrome/bin/Debug/net7.0/Palindrome.deps.json
+/Users/exebeeche/Projects/LeetCode/Palindrome/bin/Debug/net7.0/Palindrome.runtimeconfig.json
+/Users/exebeeche/Projects/LeetCode/Palindrome/bin/Debug/net7.0/Palindrome.dll
+/Users/exebeeche/Projects/LeetCode/Palindrome/bin/Debug/net7.0/Palindrome.pdb
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.csproj.AssemblyReference.cache
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfoInputs.cache
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfo.cs
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.dll
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/refint/Palindrome.dll
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.pdb
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/Palindrome.genruntimeconfig.cache
+/Users/exebeeche/Projects/LeetCode/Palindrome/obj/Debug/net7.0/ref/Palindrome.dll

@@ -1,0 +1,15 @@
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/bin/Debug/net7.0/LongCommonPrefLinq
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/bin/Debug/net7.0/LongCommonPrefLinq.deps.json
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/bin/Debug/net7.0/LongCommonPrefLinq.runtimeconfig.json
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/bin/Debug/net7.0/LongCommonPrefLinq.dll
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/bin/Debug/net7.0/LongCommonPrefLinq.pdb
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.csproj.AssemblyReference.cache
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.AssemblyInfoInputs.cache
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.AssemblyInfo.cs
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.csproj.CoreCompileInputs.cache
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.dll
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/refint/LongCommonPrefLinq.dll
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.pdb
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/LongCommonPrefLinq.genruntimeconfig.cache
+/Users/exebeeche/Projects/LeetCode/LongCommonPrefLinq/obj/Debug/net7.0/ref/LongCommonPrefLinq.dll

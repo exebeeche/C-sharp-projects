@@ -1,0 +1,15 @@
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.csproj.AssemblyReference.cache
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.AssemblyInfoInputs.cache
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.AssemblyInfo.cs
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.csproj.CoreCompileInputs.cache
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/bin/Debug/net7.0/PowerOfTwo
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/bin/Debug/net7.0/PowerOfTwo.deps.json
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/bin/Debug/net7.0/PowerOfTwo.runtimeconfig.json
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/bin/Debug/net7.0/PowerOfTwo.dll
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/bin/Debug/net7.0/PowerOfTwo.pdb
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.dll
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/refint/PowerOfTwo.dll
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.pdb
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/PowerOfTwo.genruntimeconfig.cache
+/Users/exebeeche/Projects/LeetCode/PowerOfTwo/obj/Debug/net7.0/ref/PowerOfTwo.dll
